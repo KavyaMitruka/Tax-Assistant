@@ -49,6 +49,7 @@ This project leverages **LangChain**, **FAISS**, and **LLMs** like **OpenAI GPT-
   - Incorporate ML-based anomaly detection to prevent tax fraud and generate detailed tax summary reports.
 
 ---
+### LLM Powered Tax Chatbot
 ![TaxBuddy LLM Powered Tax Chatbot](LLM_powered_Tax_Chatbot.jpeg)
 
 ## Tech Stack
