@@ -92,7 +92,7 @@ pipenv run python llm_memory.py
 pipenv run python connect_memory.py
 
 # Launch application
-pstreamlit run app.py
+streamlit run app.py
 ```
 
 ---
