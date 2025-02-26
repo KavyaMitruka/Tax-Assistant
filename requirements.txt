@@ -1,0 +1,10 @@
+pipenv
+streamlit
+langchain
+langchain_community
+langchain_huggingface
+faiss-cpu
+pypdf2
+bs4
+huggingface_hub
+
